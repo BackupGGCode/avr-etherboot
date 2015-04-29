@@ -37,4 +37,4 @@ When the bootloader starts executing, the following actions take place:
     * Program flash memory pages
   * Jump to application (Address 0x0000)
 
-See [this page](GettingStarted.md) for a short introduction how to get started with the bootloader.
+See [this page](https://github.com/BackupGGCode/avr-etherboot/blob/wiki/GettingStarted.md) for a short introduction how to get started with the bootloader.
